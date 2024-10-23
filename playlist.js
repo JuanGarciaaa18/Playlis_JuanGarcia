@@ -25,9 +25,9 @@ export const PlayList= [
       song: 'assets/music/Que Quieres De Mi Remix (feat. Nengo Flow Nova Y Jory J Alvarez Farruko).mp3'
     },
     {
-      title: 'Sport +',
-      artist: 'Myke towers x Clarent',
-      img: 'assets/images/sport+.jpg',
+      title: 'W SOUND 01',
+      artist: 'BLESSD',
+      img: 'assets/images/WSOUND.PNG',
       song: 'assets/music/W Sound 01 Soltera - Blessd Westcol Ovy On The Drums (Official Video).mp3'
     },
   ]
